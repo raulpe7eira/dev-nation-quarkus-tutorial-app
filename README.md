@@ -1,9 +1,9 @@
 # DevNation | Quarkus Tutorial App
 This repository is the code corresponding to the dev nation lab Quarkus Tutorial App.
 
-> **Slides:** https://dn.dev/quarkusmaster
-> **Video:** https://www.youtube.com/watch?v=w5wQha9pO4k
-> **Tutorial:** https://redhat-developer-demos.github.io/quarkus-tutorial/quarkus-tutorial/index.html
+> - **Slides:** https://dn.dev/quarkusmaster
+> - **Video:** https://www.youtube.com/watch?v=w5wQha9pO4k
+> - **Tutorial:** https://redhat-developer-demos.github.io/quarkus-tutorial/quarkus-tutorial/index.html
 
 ---
 
